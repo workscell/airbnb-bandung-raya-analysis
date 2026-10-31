@@ -24,7 +24,6 @@ The goal is to transform raw Airbnb listing data into meaningful insights that c
 | Microsoft Excel | Data exploration, data cleaning, data preparation, and cleaning documentation |
 | PostgreSQL | Database management and SQL-based exploratory analysis |
 | Microsoft Power BI | Data visualization, KPI creation, and interactive dashboard |
-| GitHub | Project documentation and portfolio publication |
 
 ## Dataset
 
